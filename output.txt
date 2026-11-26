@@ -32,3 +32,14 @@ Not a palindrome
 
 4.
 
+Enter a string: 
+String cannot be empty!
+
+Enter a string: kishore
+Number of words = 1
+
+Enter a string: hi i am kishore
+Number of words = 4
+
+5.
+
