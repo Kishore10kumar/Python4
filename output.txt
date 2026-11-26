@@ -21,3 +21,14 @@ Sub-string not found
 
 3.
 
+Enter a string: kishore
+Not a palindrome
+
+Enter a string: 
+String cannot be empty!
+
+Enter a string: -+
+Not a palindrome
+
+4.
+
