@@ -11,3 +11,13 @@ String cannot be empty!
 
 2.
 
+Enter main string: kishore
+Enter sub-string: ore
+Found at position 4
+
+Enter main string: 1234 
+Enter sub-string: e
+Sub-string not found
+
+3.
+
