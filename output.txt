@@ -43,3 +43,7 @@ Number of words = 4
 
 5.
 
+Enter main string: hello kishore
+Enter string to insert: mr
+Enter position: 6
+New string: hello mrkishore
