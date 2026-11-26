@@ -1,0 +1,13 @@
+1.
+
+Enter a string: madam
+Palindrome
+
+Enter a string: kishore
+Not a palindrome
+
+Enter a string: 
+String cannot be empty!
+
+2.
+
